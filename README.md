@@ -1,3 +1,3 @@
 # addy-demo
 This is my first Git Repository.
-Author - Addy
+Author - Addy coder
